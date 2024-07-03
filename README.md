@@ -2,7 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/404shraddha" target="blank"><img src="https://img.shields.io/twitter/follow/404shraddha?logo=twitter&style=for-the-badge" alt="404shraddha" /></a> </p>
 
-✱ i’m currently learning **android development** & working on **my first app!**
+✱ i’m currently learning **android development** 
+
+& working on **my first app!**
 
 ✱ reach me at **shraddhaatiwarii@gmail.com**
 
