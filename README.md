@@ -21,7 +21,7 @@
 
 <h3 align="left">stats </h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=404shraddha&theme=codeSTACKr&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api?username=404shraddha&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&langs_count=5" >
 
 <h3 align="left"> random dev meme (bcs i’m lame) </h4>
