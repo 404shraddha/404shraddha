@@ -8,7 +8,7 @@
 
 ✱ reach me at **shraddhaatiwarii@gmail.com**
 
-✱ random (but imp) fact,  **i love cats**
+✱ random (but imp) fact,  **i love cats.**
 
 
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">stats </h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=404shraddha&theme=codeSTACKr&hide_border=true"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="TOP LANGUAGES">
+<img src="https://github-readme-stats.vercel.app/api?username=404shraddha&theme=codeSTACKr&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&langs_count=5" >
 
 <h3 align="left"> github trophies :p </h3>
 <img src="https://github-profile-trophy.vercel.app/?username=404shraddha&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4" alt="GITHUB TROPHIES">
