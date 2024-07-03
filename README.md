@@ -4,11 +4,11 @@
 
 ✱ i’m currently learning **android development**
 
-& working on **my first app !!!**
+& working on **my first app!**
 
 ✱ reach me at **shraddhaatiwarii@gmail.com**
 
-✱ random (but imp) fact **i love cats**
+✱ random (but imp) fact,  **i love cats**
 
 
 
@@ -23,17 +23,14 @@
 
 <h3 align="left">stats </h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=404shraddha&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=404shraddha&theme=codeSTACKr&hide_border=false" alt="GitHub Streak"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=404shraddha&theme=codeSTACKr&hide_border=true"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="TOP LANGUAGES">
 
 <h3 align="left"> github trophies :p </h3>
-<img src="https://github-profile-trophy.vercel.app/?username=404shraddha&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=404shraddha&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4" alt="GITHUB TROPHIES">
 
-<h3 align="left"> top contributed repo</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=404shraddha&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
-<h3 align="left"> random dev meme (bcs i'm lame) </h4>
+<h3 align="left"> random dev meme (bcs i’m lame) </h4>
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <a href="https://visitcount.itsvg.in">
