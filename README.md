@@ -10,8 +10,6 @@
 
 ✱ random (but imp) fact,  **i love cats.**
 
-
-
 <h3 align="left">languages and tools </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -25,10 +23,6 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=404shraddha&theme=codeSTACKr&hide_border=false">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&langs_count=5" >
-
-<h3 align="left"> github trophies :p </h3>
-<img src="https://github-profile-trophy.vercel.app/?username=404shraddha&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4" alt="GITHUB TROPHIES">
-
 
 <h3 align="left"> random dev meme (bcs i’m lame) </h4>
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
