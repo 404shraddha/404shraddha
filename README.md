@@ -34,9 +34,8 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=404shraddha&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
 <h3 align="left"> random dev meme (bcs i'm lame) </h4>
-<img src="https://memer-new.vercel.app/" style="height: 400px;" alt="Random Dev Meme">
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<hr>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=404shraddha&icon=2&color=12" alt="Visit Count">
 </a>
