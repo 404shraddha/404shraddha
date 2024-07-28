@@ -26,11 +26,5 @@
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=404shraddha&icon=2&color=12" alt="Visit Count">
-</a>
-</p>
-
-
 
 
