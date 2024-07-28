@@ -24,7 +24,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=404shraddha&show_icons=true&theme=codeSTACKr">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&langs_count=5" >
 
-<h3 align="left"> random dev meme (bcs i’m lame) </h4>
+<h3 align="left"> random dev meme (bcs i’m lame) </h3>
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <a href="https://visitcount.itsvg.in">
