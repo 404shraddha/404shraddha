@@ -1,12 +1,8 @@
 <h1 align="left">hi, i’m shraddha</h1>
 
-✱ i’m currently learning **android development** 
+✱ i’m currently working with **kotlin** and **python**, and embarking on a journey into open source—learning, contributing, and growing with the community.  
 
-& working on **my first app!**
-
-✱ reach me at **shraddhaatiwarii@gmail.com**
-
-✱ random (but imp) fact,  **i love cats.**
+✱ reach me at 📧 **shraddhaatiwarii@gmail.com**  
 
 <h3 align="left">languages and tools </h3>
 <p align="left">
@@ -21,6 +17,7 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=404shraddha&show_icons=true&theme=codeSTACKr">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&langs_count=5" />
+
 
 
 
