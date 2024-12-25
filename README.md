@@ -1,8 +1,8 @@
 <h1 align="left">hi, i’m shraddha</h1>
 
-✱ i’m currently working with **kotlin** and **python**, and embarking on a journey into open source—learning, contributing, and growing with the community.  
+i’m currently working with **kotlin**, **python**, and embarking on a journey into open source—learning, contributing, and growing with the community.  
 
-✱ reach me at 📧 **shraddhaatiwarii@gmail.com**  
+📧 reach me at **shraddhaatiwarii@gmail.com**  
 
 <h3 align="left">languages and tools </h3>
 <p align="left">
