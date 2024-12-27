@@ -1,13 +1,14 @@
 <h1 align="left">Hi, I’m Shraddha!</h1>
 
-I’m currently working with **Kotlin**, **Python**, and delving into the **Open Source** world. 
-Learning, contributing, and connecting with the community.
+<p>I’m currently working with <b>Kotlin</b>, <b>Python</b>, and delving into the <b>Open Source</b> world.<br>
+Learning, contributing, and connecting with the community.</p>
 
-Reach me at **shraddhaatiwarii@gmail.com** 📧
+<p>Reach me at <b>shraddhaatiwarii@gmail.com</b> 📧</p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=404shraddha&show_icons=true&theme=codeSTACKr">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=404shraddha&show_icons=true&theme=codeSTACKr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404shraddha&theme=codeSTACKr&hide_border=false&langs_count=5" />
+</p>
 
 
 
