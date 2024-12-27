@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I’m Shraddha!</h1>
 
-I’m currently working with **Kotlin**, **Python**, and delving into the **Open Source** world. Learning, contributing, and connecting with the community.
+I’m currently working with **Kotlin**, **Python**, and delving into the **Open Source** world. 
+Learning, contributing, and connecting with the community.
 
 Reach me at **shraddhaatiwarii@gmail.com** 📧
 
